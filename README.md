@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.pfps.gg/banners/5123-naruto-run.gif)](https://kingshivamx.github.io)
+[![MasterHead](https://i.pinimg.com/originals/9a/1f/11/9a1f11839c9f9e902f09e8259805319a.gif)](https://kingshivamx.github.io)
 <h1 align="center">Hi 👋, I'm Shivam Hippagave</h1>
 <h3 align="center">Am a passionate frontend web-developer from Pune.</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/9a/1f/11/9a1f11839c9f9e902f09e8259805319a.gif">
+<!-- <img align="right" width="400" src="https://i.pinimg.com/originals/9a/1f/11/9a1f11839c9f9e902f09e8259805319a.gif"> -->
 
 - 🌱 I’m currently learning **Backend Web Development**
 
