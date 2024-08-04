@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/06/a4/72/06a472766b5c90c0959a572eaaa6fb4b.gif)](https://kingshivamx.github.io)
-<h1>Hi 👋, I'm Shivam Hippagave</h1>
+<h1>Hi, I'm Shivam Hippagave</h1>
 <h3>Am a passionate MERN Stack Developer from Pune</h3>
 <!-- <img align="right" width="400" src="https://i.inimg.com/originals/9a/1f/11/9a1f11839c9f9e902f09e8259805319a.gif"> -->
 
