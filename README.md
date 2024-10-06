@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/06/a4/72/06a472766b5c90c0959a572eaaa6fb4b.gif)](https://kingshivamx.github.io)
+[<img src="https://i.pinimg.com/originals/06/a4/72/06a472766b5c90c0959a572eaaa6fb4b.gif" style="width:100%;">](https://kingshivamx.github.io)
 
-# Shivam Hippalgave
+# 👾 Shivam Hippalgave
 I am a SY B.Tech. Computer Student<br><br>I'm a Full Stack Web Developer<br><br>Trying to learn Three.JS <br><br>Trying to make my place in Competitive Programming<br><br>I Enjoy Watching Anime and Reading Manga
 
 
