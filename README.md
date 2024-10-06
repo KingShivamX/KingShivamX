@@ -1,7 +1,7 @@
 [<img src="[https://i.pinimg.com/originals/06/a4/72/06a472766b5c90c0959a572eaaa6fb4b.gif](https://64.media.tumblr.com/6597e3307b3067b1cca0cc592fd7fda0/dbad982f5269150d-4b/s540x810/44cf5e26bfd3d042b0a205c22d737664c9ebd6b3.gifv)" style="width:100%;">](https://kingshivamx.github.io)
 
 # 🍁 Shivam Hippalgave
-I am a SY B.Tech. Computer Student<br>I'm a Full Stack Web Developer<br>Trying to learn Three.JS<br>Trying to make my place in Competitive Programming<br>I Enjoy Watching Anime and Reading Manga
+I'm a SY B.Tech. Computer Student<br>I'm a Full Stack Web Developer<br>Trying to learn Three.JS<br>Trying to make my place in Competitive Programming<br>I Enjoy Watching Anime and Reading Manga
 
 
 ## 🍰 Socials:
