@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnEwdXYydG9vbm9jc2t0YzM2NDBoYTZyYmhjcGJ0dWR3MWhtZTg2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BeIBRDxMXNJmg/giphy.gif" style="width:100%;">
-</div>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnEwdXYydG9vbm9jc2t0YzM2NDBoYTZyYmhjcGJ0dWR3MWhtZTg2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BeIBRDxMXNJmg/giphy.gif" width="100%">
+</p>
 
 # 🍁 Shivam Hippalgave
 I'm a SY B.Tech. Computer Student<br>I'm a Full Stack Web Developer<br>Trying to learn Three.JS<br>Trying to make my place in Competitive Programming<br>I Enjoy Watching Anime and Reading Manga
