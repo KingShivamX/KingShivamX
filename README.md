@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/6597e3307b3067b1cca0cc592fd7fda0/dbad982f5269150d-4b/s540x810/44cf5e26bfd3d042b0a205c22d737664c9ebd6b3.gifv" width="100%">
+  <img src="https://64.media.tumblr.com/5f3a3c8cfbdd2f5fc4bdeb479dabaac0/bd0c281e5d9228f7-b3/s540x810/9d71b3fc414bf91001b992c4c43519b0e9561c65.gifv" width="100%">
 </p>
 
 ## 🍁 Shivam Hippalgave
