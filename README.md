@@ -4,7 +4,7 @@
 
 
 ## 🍁 Shivam Hippalgave
-I'm a SY B.Tech. Computer Student <br>
+I'm a B.Tech. Computer Student <br>
 I'm a Full Stack Web Developer<br>Trying to learn Three.JS <br>
 Trying to make my place in Competitive Programming <br>
 I Enjoy Watching Anime and Reading Manga
